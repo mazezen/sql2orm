@@ -5,10 +5,10 @@
 License
 。
 
-<a href="https://github.com/jeffcail/sql2orm/releases">
+<a href="https://github.com/mazezen/sql2orm/releases">
     <img src="https://img.shields.io/github/release/sql2orm/releases.svg" alt="GitHub release">
   </a>
-   <a href="https://github.com/jeffcail/sql2orm/blob/master/LICENSE">
+   <a href="https://github.com/mazezen/sql2orm/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="license">
   </a>
 

@@ -2,7 +2,7 @@ package handler
 
 import (
 	"encoding/json"
-	"github.com/jeffcail/sql2orm/utils"
+	"github.com/mazezen/sql2orm/utils"
 	"go/format"
 	"io"
 	"net/http"

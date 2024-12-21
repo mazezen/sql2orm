@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/jeffcail/sql2orm/handler"
+	"github.com/mazezen/sql2orm/handler"
 	"log"
 	"net/http"
 )

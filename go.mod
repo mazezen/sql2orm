@@ -1,3 +1,3 @@
-module github.com/jeffcail/sql2orm
+module github.com/mazezen/sql2orm
 
 go 1.22.0
