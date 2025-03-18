@@ -13,7 +13,7 @@ License
   </a>
 
 ## website
-<a href="sql2orm.mazezen.com" target="_blank">sql2orm</a>
+<a href="https://sql2orm.mazezen.com" target="_blank">sql2orm</a>
 
 ## 预览
 ![效果](./images/one.png)
