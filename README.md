@@ -13,7 +13,7 @@ License
   </a>
 
 ## website
-<a href="sql2orm.caixiaoxin.cn" target="_blank">sql2orm</a>
+<a href="sql2orm.mazezen.com" target="_blank">sql2orm</a>
 
 ## 预览
 ![效果](./images/one.png)
