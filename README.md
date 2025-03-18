@@ -24,9 +24,5 @@ License
 ## sql2gorm
 ![效果](./images/one3.png)
 
-## 感谢您的支持🙏
-祝施舍的老板财源滚滚～您的支持是我最大的动力.
-
-<img src="./images/wx.jpg" width="150" height="150" alt="微信扫一扫">
 
 感谢您动动手指点个star🌟
